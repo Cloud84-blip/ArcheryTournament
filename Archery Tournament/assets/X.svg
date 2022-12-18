@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<line class="st0" x1="24" y1="24.5" x2="176" y2="24.5"/>
+	</g>
+	<g>
+		<line class="st0" x1="26.5" y1="176" x2="26.5" y2="24"/>
+	</g>
+	<g>
+		<line class="st0" x1="173.5" y1="176" x2="173.5" y2="24"/>
+	</g>
+	<g>
+		<line class="st0" x1="24" y1="175.5" x2="176" y2="175.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st1" x1="39" y1="35.4" x2="161" y2="35.4"/>
+	</g>
+	<g>
+		<line class="st1" x1="40.5" y1="157" x2="40.5" y2="35"/>
+	</g>
+	<g>
+		<line class="st1" x1="159.5" y1="157" x2="159.5" y2="35"/>
+	</g>
+	<g>
+		<line class="st1" x1="39" y1="156.6" x2="161" y2="156.6"/>
+	</g>
+</g>
+<g>
+	<path d="M68.45,151l17.9-57.25L68.33,40.3H89.6L100,73.39l11.19-33.09h20.79l-17.9,53.07L131.73,151h-21.09l-10.58-36.59L89.6,151
+		H68.45z"/>
+</g>
+<line class="st1" x1="26" y1="175" x2="41" y2="156"/>
+<line class="st1" x1="25.5" y1="23.5" x2="40.5" y2="35.5"/>
+<line class="st1" x1="173.5" y1="23.5" x2="159" y2="37"/>
+<line class="st1" x1="172.37" y1="175.47" x2="158.63" y2="155.53"/>
+</svg>

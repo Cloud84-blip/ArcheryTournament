@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Testing sprites</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="player-ui">
+            <a class="txt-arr-left">Arrow Left : </a>
+            <div id="arr-left"></div>
+            <a class="txt-score">Score : </a>
+            <div id="score"></div>
+            <button id="rbutton">Reload</button>
+            <a id="max-score">Max Score : </a>
+        </div>
+        <canvas class="cv"></canvas>
+        <div class="commands-container">
+            <div class="commands">
+                <img class="spaceBar" src="./assets/spaceBar.svg">
+                <a>Hit to shoot</a>
+                <a>Hold to shoot a faster arrow </a>
+            </div>
+            <div class="commands">
+                <img class="spaceBar" src="./assets/X.svg">
+                <a>To cancel a shoot</a>
+
+            </div>
+            <div class="commands">
+                <a> ZQSD/WASD</a>
+                <a> to move</a>
+            </div>
+        </div>
+        <div class="tuto">
+            <div class="balloon-ctn">
+                <img class="balloon" src="./assets/balloon.png">
+            </div>
+            <a>In 1 shot : 2 points</a>
+
+            <div class="balloon-ctn">
+                <img class="balloon" src="./assets/balloon.png">
+                <img class="balloon" src="./assets/balloon.png">
+            </div>
+            <a>In 1 shot : 3 points + 1 arrow</a>
+
+            <div class="balloon-ctn">
+                <img class="balloon" src="./assets/balloon.png">
+                <img class="balloon" src="./assets/balloon.png">
+                <img class="balloon" src="./assets/balloon.png">
+            </div>
+            <a>In 1 shot : 5 points + 2 arrow</a>
+        </div>
+    </div>
+    <script src="Enemies.js"></script>
+    <script src="Projectile.js"></script>
+    <script src="Player.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
